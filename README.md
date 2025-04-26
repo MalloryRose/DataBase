@@ -16,9 +16,9 @@ Prerequisites
 Running the Code:
 - Clone this repository:
   
-  `git clone https://github.com/yourusername/in-memory-database.git`
+  `git clone https://github.com/MalloryRose/DataBase.git`
   
-   `cd in-memory-database`
+   `cd DataBase`
 
 - Run the main script to test the database implementation:
   `python database.py`
